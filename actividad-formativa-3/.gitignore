@@ -1,0 +1,4 @@
+*.class
+out/
+data/*.db
+lib/*.jar

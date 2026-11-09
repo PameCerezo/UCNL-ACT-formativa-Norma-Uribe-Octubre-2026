@@ -1,0 +1,17 @@
+
+JUGUETERÍA: 1 Listar | 2 Buscar | 3 Registrar | 4 Precio | 5 Vender | 6 Reponer | 7 Eliminar | 8 Valor total | 0 Salir
+Opción: J001 | Bloques de construcción | JUGUETE | $349.90 MXN | stock 12 | edad 3+ | Material: Plástico; edad recomendada: 3+
+J002 | Peluche de ajolote | JUGUETE | $199.00 MXN | stock 20 | edad 3+ | Material: Tela; edad recomendada: 3+
+J003 | Auto de juguete | JUGUETE | $149.50 MXN | stock 15 | edad 4+ | Material: Metal; edad recomendada: 4+
+M001 | Ajedrez | JUEGO_MESA | $299.00 MXN | stock 8 | edad 6+ | Jugadores: 2 a 2
+M002 | Dominó | JUEGO_MESA | $179.00 MXN | stock 10 | edad 6+ | Jugadores: 2 a 4
+M003 | Lotería mexicana | JUEGO_MESA | $99.00 MXN | stock 18 | edad 5+ | Jugadores: 2 a 8
+
+JUGUETERÍA: 1 Listar | 2 Buscar | 3 Registrar | 4 Precio | 5 Vender | 6 Reponer | 7 Eliminar | 8 Valor total | 0 Salir
+Opción: Código: Cantidad: Venta: $598.00 MXN
+
+JUGUETERÍA: 1 Listar | 2 Buscar | 3 Registrar | 4 Precio | 5 Vender | 6 Reponer | 7 Eliminar | 8 Valor total | 0 Salir
+Opción: Código: M001 | Ajedrez | JUEGO_MESA | $299.00 MXN | stock 6 | edad 6+ | Jugadores: 2 a 2
+
+JUGUETERÍA: 1 Listar | 2 Buscar | 3 Registrar | 4 Precio | 5 Vender | 6 Reponer | 7 Eliminar | 8 Valor total | 0 Salir
+Opción: 
