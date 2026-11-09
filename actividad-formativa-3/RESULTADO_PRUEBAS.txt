@@ -1,0 +1,26 @@
+OK 1: Venta e importe
+OK 2: Venta sin stock rechazada
+OK 3: Rechazo conserva stock
+OK 4: Venta de cero rechazada
+OK 5: Reposición negativa rechazada
+OK 6: Precio negativo rechazado
+OK 7: Fracción de centavo rechazada
+OK 8: Reposición y valoración
+OK 9: Alta y listado
+OK 10: Código duplicado rechazado
+OK 11: Actualización persistida
+OK 12: Búsqueda inexistente
+OK 13: Persistencia al reabrir conexión
+OK 14: Eliminación
+OK 15: Carga inicial sin duplicados
+OK 16: Sobrescritura y polimorfismo
+OK 17: Ficha exclusiva usa edad heredada
+OK 18: Rango exclusivo de jugadores
+OK 19: Juguete reutiliza vender y consultar stock
+OK 20: Rango invertido rechazado
+OK 21: Material vacío rechazado
+OK 22: H2 recupera Juguete y material
+OK 23: H2 recupera JuegoDeMesa y rango
+OK 24: Migración conserva juguete anterior
+OK 25: Migración conserva juego anterior sin inventar rango
+RESULTADO: 25 pruebas correctas.
